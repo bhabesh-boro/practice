@@ -1,0 +1,9 @@
+Non-Veg:
+ Pork 
+ chicken
+ fish
+ egg
+
+Veg:
+paneer
+sak
