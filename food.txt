@@ -5,5 +5,7 @@ Non-Veg:
  egg
 
 Veg:
-paneer
-sak
+ paneer
+ sak
+ Lai 
+ Mula
